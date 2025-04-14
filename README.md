@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/GlitchSadik/alumo.git
-
+```
 ### 2. Install dependencies
 
 Navigate to the project directory and install the required dependencies using pip:
@@ -35,28 +35,28 @@ Navigate to the project directory and install the required dependencies using pi
 ```bash
 cd alumo
 pip install -r requirements.txt
-
+```
 ### 3. Set up the database
 
 After installing the dependencies, run the following command to apply migrations and set up the database schema:
 
 ```bash
 python manage.py migrate
-
+```
 ### 4. Create a superuser (for accessing the Django admin)
 
 To create a superuser that will allow you to access the Django admin interface, run the following command and follow the prompts:
 
 ```bash
 python manage.py createsuperuser
-
+```
 ### 5. Run the development server
 
 Start the development server using the following command:
 
 ```bash
 python manage.py runserver
-
+```
 
 
 
