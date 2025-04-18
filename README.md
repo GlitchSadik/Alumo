@@ -1,4 +1,4 @@
-# **Alumo - A Social Media Platform**
+# **Alumo - DIU CAMPUS CONNECT**
 
 **Alumo** is a social media web application built using **Django** and **Python**, designed to provide users with a platform to share posts, follow other users, like posts, and interact with content. This project was developed as part of my undergraduate coursework and aims to demonstrate practical skills in web development using Django.
 
